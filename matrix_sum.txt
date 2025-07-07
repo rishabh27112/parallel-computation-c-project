@@ -1,0 +1,6 @@
+Enter the number of threads (less than 500): 4
+Serial sum: 12500000, Time taken: 15000 microseconds
+
+Enter the number of threads (less than 500): 4
+Parallel sum: 12500000, Time taken: 5000 microseconds
+
